@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Who's That Girl",
+  "base_artist": "DOUBLE",
+  "createdAt": "2026-03-28T01:57:02.284547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who's That Girl",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/01_Who's_That_Girl_Madonna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who's That Girl?",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Who's_That_Girl_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who's That Girl ?",
+      "artist": "Lasgo",
+      "has_synced": true,
+      "path": "select/03_Who's_That_Girl_Lasgo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who's That Girl (She's Got It)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/04_Who's_That_Girl_(She's_Got_It)_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who's That Girl (She's Got It) [7\" Version]",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/05_Who's_That_Girl_(She's_Got_It)_[7__Version]_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who's That Girl (She's Got It) [Extended Version]",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/06_Who's_That_Girl_(She's_Got_It)_[Extended_Version]_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who's That Girl?",
+      "artist": "Eurythmics feat. Annie Lennox & Dave Stewart",
+      "has_synced": false,
+      "path": "select/07_Who's_That_Girl_Eurythmics_feat._Annie_Lennox_&_Dave_Stewart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who's That Girl?",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/08_Who's_That_Girl_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who's That Girl (7'' Mix, 1983)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/09_Who's_That_Girl_(7''_Mix,_1983)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who's That Girl (Live) [Bonus Track]",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/10_Who's_That_Girl_(Live)_[Bonus_Track]_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who's That Girl (Live) (Bonus Track)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/11_Who's_That_Girl_(Live)_(Bonus_Track)_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Who’s That Girl (She’s Got It)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/12_Who’s_That_Girl_(She’s_Got_It)_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who's That Girl?",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/13_Who's_That_Girl_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who's That Girl",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/14_Who's_That_Girl_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who's That Girl (Drop the Lime dub)",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/15_Who's_That_Girl_(Drop_the_Lime_dub)_Robyn.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Who's That Girl? (Radio Edit)",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/16_Who's_That_Girl__(Radio_Edit)_Robyn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who's That Girl",
+      "artist": "DOUBLE",
+      "has_synced": false,
+      "path": "select/pl_01_Who's_That_Girl_DOUBLE.txt"
+    }
+  ]
+}
